@@ -1,0 +1,12 @@
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\WorldyachtsBl.dll.config
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\WorldyachtsBl.dll
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\WorldyachtsBl.pdb
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\EntityFramework.dll
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\EntityFramework.xml
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\obj\Debug\WorldyachtsBl.csproj.CoreCompileInputs.cache
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\obj\Debug\WorldyachtsBl.csproj.CopyComplete
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\obj\Debug\WorldyachtsBl.dll
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\obj\Debug\WorldyachtsBl.pdb
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBl\obj\Debug\WorldyachtsBl.csprojAssemblyReference.cache

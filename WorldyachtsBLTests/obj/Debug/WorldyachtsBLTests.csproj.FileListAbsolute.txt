@@ -1,0 +1,27 @@
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.csprojAssemblyReference.cache
+C:\Users\rrm1\Desktop\Worldyachts\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.csproj.CoreCompileInputs.cache
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\WorldyachtsBLTests.dll.config
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\WorldyachtsBLTests.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\WorldyachtsBLTests.pdb
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\EntityFramework.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\WorldyachtsBl.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\WorldyachtsBl.pdb
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\WorldyachtsBl.dll.config
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\EntityFramework.xml
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.csprojAssemblyReference.cache
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.csproj.CoreCompileInputs.cache
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.csproj.CopyComplete
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.dll
+C:\Users\rrm1\Desktop\Диплом и проекты\Worldyachts1\WorldyachtsBLTests\obj\Debug\WorldyachtsBLTests.pdb
